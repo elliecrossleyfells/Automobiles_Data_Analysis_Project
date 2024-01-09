@@ -14,3 +14,7 @@ ________________________________________________________________________________
 6. Using indicator variables and concatenating indicators with the dataframe function, so that regression analysis can be performed on categorical data features.
 ____________________________________________________________________________________________________________________________________________
 <p><b><u>STEP 2: EXPLORATORY DATA ANALYSIS -  </u></b></p>
+
+1. Investigating correlation between two variables, identifying weak, moderate and strong correlations and creating linear regression plots.
+2. Analysis of categorical variables using box plots, and investigating what dataset features may be either good or poor predictors of car price.
+3. Descriptive statistical analysis on features of a dataset and use of value counts to investigate which features could be used as price indictors.
