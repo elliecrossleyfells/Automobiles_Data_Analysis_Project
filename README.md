@@ -15,6 +15,10 @@ ________________________________________________________________________________
 ____________________________________________________________________________________________________________________________________________
 <p><b><u>STEP 2: EXPLORATORY DATA ANALYSIS -  </u></b></p>
 
-1. Investigating correlation between two variables, identifying weak, moderate and strong correlations and creating linear regression plots.
-2. Analysis of categorical variables using box plots, and investigating what dataset features may be either good or poor predictors of car price.
-3. Descriptive statistical analysis on features of a dataset and use of value counts to investigate which features could be used as price indictors.
+The following tasks are carried out in this project:<br>
+1. Explore and interpret correlations between features of the dataset. <br>
+2. Investigate which dataset features are good indicators of car price.<br>
+3. Create visualisation such as scatter plots with linear regression, boxplots and heatmaps.<br>
+4. Analyze patterns and run descriptive statistical analysis on dataset features.<br>
+5. Group dataset features based on identified parameters and create pivot tables.<br>
+6. Evaluate the statistical significance of the correlation of two variables using the P-Value.<br>
