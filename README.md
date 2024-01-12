@@ -22,3 +22,15 @@ The following tasks are carried out in this project:<br>
 4. Analyze patterns and run descriptive statistical analysis on dataset features.<br>
 5. Group dataset features based on identified parameters and create pivot tables.<br>
 6. Evaluate the statistical significance of the correlation of two variables using the P-Value.<br>
+
+___________________________________________________________________________________________________________________________________________________________________________
+<p><b><u>Part 3: DEVELOPING PREDICTIVE MODELS </u></b></p>
+
+1. Simple Linear Regression
+2. Residual Plots
+3. Multiple linear regression
+4. Distribution plots
+5. Polynomial Regression
+6. Model evaluations using R-squared and Mean Squared Error (MSE)
+7. Conclusions
+   *More work is needed on this project to use the models to make predicitions. 
