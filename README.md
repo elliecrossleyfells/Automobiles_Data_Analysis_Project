@@ -2,7 +2,7 @@
 This is a data wrangling project on a small automobile dataset consisting of 205 rows.<br>
 Python libraries: Pandas, NumPy, Matplotlib, Seaborn.<br>
 <h6><i>Dataset source: https://www.kaggle.com/datasets/toramky/automobile-dataset/data </i></h6>
-____________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________
 <p><b><u>STEP 1: DATA WRANGLING - Transforming the Dataset for Analysis - step1_datawrangling_cars.ipynb </u></b></p>
 
 1. Identifying missing values using a For loop<br>
